@@ -11,3 +11,8 @@ docker build -t myapp .
 ```
 docker run -p 8080:8080 myapp
 ```
+
+The application will be live on localhost:8080 on your local machine.
+
+##Cheatsheet
+![Capture](https://github.com/HabeebUllahTabrez/node-docker-app/blob/main/sheet.PNG?raw=true)
